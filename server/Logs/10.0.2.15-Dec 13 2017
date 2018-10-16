@@ -1,0 +1,40 @@
+> Cliente Conectado: 10.0.2.15
+
+> INSERIR JOGADOR
+> Nome: thiago.
+> Apelido: thiago.
+> Idade: 18.
+> ERRO: Já existe um jogador com o nome na base.
+
+> BUSCAR JOGADOR
+> Nome Parcial: thiago
+> Encontrou Jogador!
+*-------------------------------------------------------------------------------------*
+| ID  | NOME                          | APELIDO                       | IDADE | SCORE |
+|-----|-------------------------------|-------------------------------|-------|-------|
+| 001 | Thiago                        | Thiago                        |   18  | 100 |
+| 002 | Thiagooo                      | Thiagooo                      |   18  | 100 |
+*-------------------------------------------------------------------------------------*
+
+> BUSCAR JOGADOR
+> Nome Parcial: boeira
+> NAO Encontrou Jogador!
+
+> ESTATISTICAS
+> 1o Jogador: Thiago                        
+> 2o Jogador: Thiagooo                      
+> 3o Jogador: Vga                           
+> 4o Jogador: Teste                         
+> 5o Jogador: Geison                        
+Id Nome                           Melhor   Pior   Última  Vezes 
+001Thiago                          100     100     100     002  
+002Thiagooo                        100     090     090     002  
+005Vga                             100     100     100     010  
+003Teste                           100     090     090     002  
+004Geison                          090     090     090     001  
+
+O Cliente desconectou
+ DIA: Dec 13 2017
+HORA: 20:10:12
+
+

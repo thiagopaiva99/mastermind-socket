@@ -1,0 +1,169 @@
+> Cliente Conectado: 10.31.10.210
+> Cliente Conectado: 10.31.10.210
+> Cliente Conectado: 10.31.10.210
+> Cliente Conectado: 10.31.10.210
+
+> ESTATISTICAS
+> 1o Jogador: Thiago                        
+> 2o Jogador: Thiagooo                      
+> 3o Jogador: Teste                         
+> 4o Jogador: Geison                        
+Id Nome                           Melhor   Pior   Última  Vezes 
+001Thiago                          100     100     100     002  
+002Thiagooo                        100     090     090     002  
+003Teste                           100     090     090     002  
+004Geison                          090     090     090     001  
+
+> INSERIR JOGADOR
+> Nome: vga.
+> Apelido: vga.
+> Idade: 1.
+> Jogador Inserido com Sucesso.
+
+> BUSCAR JOGADOR
+> Nome Parcial: vga
+> Encontrou Jogador!
+*-------------------------------------------------------------------------------------*
+| ID  | NOME                          | APELIDO                       | IDADE | SCORE |
+|-----|-------------------------------|-------------------------------|-------|-------|
+| 005 | Vga                           | Vga                           |   1   | ----- |
+*-------------------------------------------------------------------------------------*
+
+> JOGAR
+> BUSCAR JOGADOR PARA INICIAR JOGO
+> Nome Completo: Vga.
+> ID Jogador: 005
+> Cliente Conectado: 10.31.10.210
+
+> JOGAR
+> BUSCAR JOGADOR PARA INICIAR JOGO
+> Nome Completo: Vga.
+> ID Jogador: 005
+> Cliente Conectado: 10.31.10.210
+
+> JOGAR
+> BUSCAR JOGADOR PARA INICIAR JOGO
+> Nome Completo: Vga.
+> ID Jogador: 005
+> Cliente Conectado: 10.31.10.210
+
+> JOGAR
+> BUSCAR JOGADOR PARA INICIAR JOGO
+> Nome Completo: Vga.
+> ID Jogador: 005
+
+> JOGAR
+> INICIA JOGO
+> Entrada: DZVB > Saida: ****
+> GANHADOR
+
+> ESTATISTICAS
+> 1o Jogador: Thiago                        
+> 2o Jogador: Thiagooo                      
+> 3o Jogador: Vga                           
+> 4o Jogador: Teste                         
+> 5o Jogador: Geison                        
+Id Nome                           Melhor   Pior   Última  Vezes 
+001Thiago                          100     100     100     002  
+002Thiagooo                        100     090     090     002  
+005Vga                             100     100     100     001  
+003Teste                           100     090     090     002  
+004Geison                          090     090     090     001  
+
+> SORTEIA SENHA
+> Senha HARD: ZDAV
+
+> JOGAR
+> BUSCAR JOGADOR PARA INICIAR JOGO
+> Nome Completo: Vga.
+> ID Jogador: 005
+
+> JOGAR
+> INICIA JOGO
+> Entrada: ZDAV > Saida: ****
+> GANHADOR
+
+> JOGAR
+> BUSCAR JOGADOR PARA INICIAR JOGO
+> Nome Completo: Vga.
+> ID Jogador: 005
+
+> JOGAR
+> INICIA JOGO
+> Entrada: VAPZ > Saida: ****
+> GANHADOR
+
+> JOGAR
+> BUSCAR JOGADOR PARA INICIAR JOGO
+> Nome Completo: Vga.
+> ID Jogador: 005
+
+> JOGAR
+> INICIA JOGO
+> Entrada: DPAZ > Saida: ****
+> GANHADOR
+
+> JOGAR
+> BUSCAR JOGADOR PARA INICIAR JOGO
+> Nome Completo: Vga.
+> ID Jogador: 005
+
+> JOGAR
+> INICIA JOGO
+> Entrada: AZVP > Saida: ****
+> GANHADOR
+
+> JOGAR
+> BUSCAR JOGADOR PARA INICIAR JOGO
+> Nome Completo: Vga.
+> ID Jogador: 005
+
+> JOGAR
+> INICIA JOGO
+> Entrada: ZBDV > Saida: ****
+> GANHADOR
+
+> JOGAR
+> BUSCAR JOGADOR PARA INICIAR JOGO
+> Nome Completo: Vga.
+> ID Jogador: 005
+
+> JOGAR
+> INICIA JOGO
+> Entrada: VZBD > Saida: ****
+> GANHADOR
+
+> JOGAR
+> BUSCAR JOGADOR PARA INICIAR JOGO
+> Nome Completo: Vga.
+> ID Jogador: 005
+
+> JOGAR
+> INICIA JOGO
+> Entrada: VABP > Saida: ****
+> GANHADOR
+
+> JOGAR
+> BUSCAR JOGADOR PARA INICIAR JOGO
+> Nome Completo: Vga.
+> ID Jogador: 005
+
+> JOGAR
+> INICIA JOGO
+> Entrada: BAVD > Saida: ****
+> GANHADOR
+
+> JOGAR
+> BUSCAR JOGADOR PARA INICIAR JOGO
+> Nome Completo: Vga.
+> ID Jogador: 005
+
+> JOGAR
+> INICIA JOGO
+> Entrada: AZPB > Saida: ****
+> GANHADOR
+
+> JOGAR
+> BUSCAR JOGADOR PARA INICIAR JOGO
+> Nome Completo: Vga.
+> ID Jogador: 005

@@ -1,0 +1,231 @@
+> Cliente Conectado: 192.168.1.6
+> Cliente Conectado: 192.168.1.6
+> Cliente Conectado: 192.168.1.6
+
+> ESTATISTICAS
+> 1o Jogador: Thiago                        
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+|ID |NOME                          | MELHOR |  PIOR  | ULTIMA | VEZES |
+|_ _|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ | _ _ _ _|_ _ _ _ | _ _ _ _|_ _ _ _|
+|001|Thiago                        |  100   |  100   |  100   |  002  |
+|_ _|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ | _ _ _ _|_ _ _ _ | _ _ _ _|_ _ _ _|
+
+> INSERIR JOGADOR
+> Nome: Thiago.
+> Apelido: Thiagooo.
+> Idade: 18.
+> ERRO: Já existe um jogador com o nome na base.
+
+> BUSCAR JOGADOR
+> Nome Parcial: Thi
+> Encontrou Jogador!
+*-------------------------------------------------------------------------------------*
+| ID  | NOME                          | APELIDO                       | IDADE | SCORE |
+|-----|-------------------------------|-------------------------------|-------|-------|
+| 001 | Thiago                        | Thiago                        |   18  | 100 |
+*-------------------------------------------------------------------------------------*
+
+> INSERIR JOGADOR
+> Nome: asdsad.
+> Apelido: sadsad.
+> Idade: 18.
+> Jogador Inserido com Sucesso.
+
+> INSERIR JOGADOR
+> Nome: Thiagooo.
+> Apelido: Thiagooo.
+> Idade: 18.
+> Jogador Inserido com Sucesso.
+
+> BUSCAR JOGADOR
+> Nome Parcial: Thia
+> Encontrou Jogador!
+*-------------------------------------------------------------------------------------*
+| ID  | NOME                          | APELIDO                       | IDADE | SCORE |
+|-----|-------------------------------|-------------------------------|-------|-------|
+| 001 | Thiago                        | Thiago                        |   18  | 100 |
+| 002 | Thiagooo                      | Thiagooo                      |   18  | ----- |
+*-------------------------------------------------------------------------------------*
+
+> JOGAR
+> BUSCAR JOGADOR PARA INICIAR JOGO
+> Nome Completo: Thiagooo.
+> ID Jogador: 002
+
+> JOGAR
+> INICIA JOGO
+> Entrada: PVBA > Saida: ****
+> GANHADOR
+
+> JOGAR
+> BUSCAR JOGADOR PARA INICIAR JOGO
+> Nome Completo: Thiagooo.
+> ID Jogador: 002
+
+> JOGAR
+> INICIA JOGO
+> Entrada: PVBA > Saida: --*o
+> Entrada: ADBZ > Saida: ****
+> GANHADOR
+
+> BUSCAR JOGADOR
+> Nome Parcial: Thia
+> Encontrou Jogador!
+*-------------------------------------------------------------------------------------*
+| ID  | NOME                          | APELIDO                       | IDADE | SCORE |
+|-----|-------------------------------|-------------------------------|-------|-------|
+| 001 | Thiago                        | Thiago                        |   18  | 100 |
+| 002 | Thiagooo                      | Thiagooo                      |   18  | 100 |
+*-------------------------------------------------------------------------------------*
+
+> ESTATISTICAS
+> 1o Jogador: Thiago                        
+> 2o Jogador: Thiagooo                      
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+|ID |NOME                          | MELHOR |  PIOR  | ULTIMA | VEZES |
+|_ _|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ | _ _ _ _|_ _ _ _ | _ _ _ _|_ _ _ _|
+|001|Thiago                        |  100   |  100   |  100   |  002  |
+|002|Thiagooo                      |  100   |  090   |  090   |  002  |
+|_ _|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ | _ _ _ _|_ _ _ _ | _ _ _ _|_ _ _ _|
+
+> SORTEIA SENHA
+> Senha HARD: DABA
+
+> SORTEIA SENHA
+> Senha EASY: VBAZ
+
+O Cliente desconectou
+ DIA: Dec 12 2017
+HORA: 21:16:42
+
+
+> Cliente Conectado: 192.168.1.6
+
+> BUSCAR JOGADOR
+> Nome Parcial: T
+> Encontrou Jogador!
+*-------------------------------------------------------------------------------------*
+| ID  | NOME                          | APELIDO                       | IDADE | SCORE |
+|-----|-------------------------------|-------------------------------|-------|-------|
+| 001 | Thiago                        | Thiago                        |   18  | 100 |
+| 002 | Thiagooo                      | Thiagooo                      |   18  | 100 |
+*-------------------------------------------------------------------------------------*
+
+O Cliente desconectou
+ DIA: Dec 12 2017
+HORA: 21:32:09
+
+
+> Cliente Conectado: 192.168.1.6
+
+> INSERIR JOGADOR
+> Nome: Teste.
+> Apelido: teste.
+> Idade: 10.
+> Jogador Inserido com Sucesso.
+
+> BUSCAR JOGADOR
+> Nome Parcial: t
+> Encontrou Jogador!
+*-------------------------------------------------------------------------------------*
+| ID  | NOME                          | APELIDO                       | IDADE | SCORE |
+|-----|-------------------------------|-------------------------------|-------|-------|
+| 001 | Thiago                        | Thiago                        |   18  | 100 |
+| 002 | Thiagooo                      | Thiagooo                      |   18  | 100 |
+| 003 | Teste                         | Teste                         |   10  | ----- |
+*-------------------------------------------------------------------------------------*
+
+> JOGAR
+> BUSCAR JOGADOR PARA INICIAR JOGO
+> Nome Completo: Teste.
+> ID Jogador: 003
+
+> JOGAR
+> INICIA JOGO
+> Entrada: PABZ > Saida: ****
+> GANHADOR
+
+> JOGAR
+> BUSCAR JOGADOR PARA INICIAR JOGO
+> Nome Completo: Teste.
+> ID Jogador: 003
+> Cliente Conectado: 192.168.1.6
+
+> JOGAR
+> BUSCAR JOGADOR PARA INICIAR JOGO
+> Nome Completo: Teste.
+> ID Jogador: 003
+
+> JOGAR
+> INICIA JOGO
+> Entrada: PABZ > Saida: -ooo
+> Entrada: ABZV > Saida: ****
+> GANHADOR
+
+> ESTATISTICAS
+> 1o Jogador: Thiago                        
+> 2o Jogador: Thiagooo                      
+> 3o Jogador: Teste                         
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+|ID |NOME                          | MELHOR |  PIOR  | ULTIMA | VEZES |
+|_ _|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ | _ _ _ _|_ _ _ _ | _ _ _ _|_ _ _ _|
+|001|Thiago                        |  100   |  100   |  100   |  002  |
+|002|Thiagooo                      |  100   |  090   |  090   |  002  |
+|003|Teste                         |  100   |  090   |  090   |  002  |
+|_ _|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ | _ _ _ _|_ _ _ _ | _ _ _ _|_ _ _ _|
+> Cliente Conectado: 192.168.1.6
+
+O Cliente desconectou
+ DIA: Dec 12 2017
+HORA: 21:34:15
+
+
+> Cliente Conectado: 192.168.1.6
+> Cliente Conectado: 192.168.1.6
+
+O Cliente desconectou
+ DIA: Dec 12 2017
+HORA: 21:40:11
+
+
+> Cliente Conectado: 192.168.1.6
+> Cliente Conectado: 192.168.1.6
+> Cliente Conectado: 192.168.1.6
+
+> ESTATISTICAS
+> 1o Jogador: Thiago                        
+> 2o Jogador: Thiagooo                      
+> 3o Jogador: Teste                         
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+|ID |NOME                          | MELHOR |  PIOR  | ULTIMA | VEZES |
+|_ _|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ | _ _ _ _|_ _ _ _ | _ _ _ _|_ _ _ _|
+|001|Thiago                        |  100   |  100   |  100   |  002  |
+|002|Thiagooo                      |  100   |  090   |  090   |  002  |
+|003|Teste                         |  100   |  090   |  090   |  002  |
+|_ _|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ | _ _ _ _|_ _ _ _ | _ _ _ _|_ _ _ _|
+> Cliente Conectado: 192.168.1.6
+
+> ESTATISTICAS
+> 1o Jogador: Thiago                        
+> 2o Jogador: Thiagooo                      
+> 3o Jogador: Teste                         
+Id Nome                           Melhor   Pior   Última  Vezes 
+001Thiago                          100     100     100     002  
+002Thiagooo                        100     090     090     002  
+003Teste                           100     090     090     002  
+
+> BUSCAR JOGADOR
+> Nome Parcial: Th
+> Encontrou Jogador!
+*-------------------------------------------------------------------------------------*
+| ID  | NOME                          | APELIDO                       | IDADE | SCORE |
+|-----|-------------------------------|-------------------------------|-------|-------|
+| 001 | Thiago                        | Thiago                        |   18  | 100 |
+| 002 | Thiagooo                      | Thiagooo                      |   18  | 100 |
+*-------------------------------------------------------------------------------------*
+
+O Cliente desconectou
+ DIA: Dec 12 2017
+HORA: 21:54:03
+
+
